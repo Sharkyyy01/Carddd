@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "Ppy9hL7IMX3t4ASrIKkfvt42ozXiP9e4EUxt14v0bZXp92hreAKPr3gTWgswA3Wvf12KhJn/BErqfJui80vdfA==",
+  "success": true,
+  "projectFilePath": "C:\\Projects\\CS\\CardIndex\\CardIndex.DataAccess.Postgres\\CardIndex.DataAccess.Postgres.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Ikki\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\8.0.0\\microsoft.extensions.dependencyinjection.abstractions.8.0.0.nupkg.sha512",
+    "C:\\Users\\Ikki\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\8.0.0\\microsoft.extensions.logging.abstractions.8.0.0.nupkg.sha512",
+    "C:\\Users\\Ikki\\.nuget\\packages\\npgsql\\8.0.2\\npgsql.8.0.2.nupkg.sha512"
+  ],
+  "logs": []
+}

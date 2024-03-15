@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "DowIasN5qpDP1K/Ay4ipeg8sSgVGkB6kL/qbklt1VZeAibcFq9ySwIi6gHrmqMralp3xXd5SokFX6dfNEJjmkQ==",
+  "success": true,
+  "projectFilePath": "C:\\Projects\\CS\\CardIndex\\CardIndex.DataAccess.File\\CardIndex.DataAccess.File.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Ikki\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

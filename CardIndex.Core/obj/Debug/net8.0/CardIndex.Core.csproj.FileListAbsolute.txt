@@ -1,0 +1,15 @@
+C:\Projects\CS\CardIndex\CardIndex.Core\bin\Debug\net8.0\CardIndex.Core.exe
+C:\Projects\CS\CardIndex\CardIndex.Core\bin\Debug\net8.0\CardIndex.Core.deps.json
+C:\Projects\CS\CardIndex\CardIndex.Core\bin\Debug\net8.0\CardIndex.Core.runtimeconfig.json
+C:\Projects\CS\CardIndex\CardIndex.Core\bin\Debug\net8.0\CardIndex.Core.dll
+C:\Projects\CS\CardIndex\CardIndex.Core\bin\Debug\net8.0\CardIndex.Core.pdb
+C:\Projects\CS\CardIndex\CardIndex.Core\obj\Debug\net8.0\CardIndex.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\CS\CardIndex\CardIndex.Core\obj\Debug\net8.0\CardIndex.Core.AssemblyInfoInputs.cache
+C:\Projects\CS\CardIndex\CardIndex.Core\obj\Debug\net8.0\CardIndex.Core.AssemblyInfo.cs
+C:\Projects\CS\CardIndex\CardIndex.Core\obj\Debug\net8.0\CardIndex.Core.csproj.CoreCompileInputs.cache
+C:\Projects\CS\CardIndex\CardIndex.Core\obj\Debug\net8.0\CardIndex.Core.dll
+C:\Projects\CS\CardIndex\CardIndex.Core\obj\Debug\net8.0\refint\CardIndex.Core.dll
+C:\Projects\CS\CardIndex\CardIndex.Core\obj\Debug\net8.0\CardIndex.Core.pdb
+C:\Projects\CS\CardIndex\CardIndex.Core\obj\Debug\net8.0\CardIndex.Core.genruntimeconfig.cache
+C:\Projects\CS\CardIndex\CardIndex.Core\obj\Debug\net8.0\ref\CardIndex.Core.dll
+C:\Projects\CS\CardIndex\CardIndex.Core\obj\Debug\net8.0\CardIndex.Core.sourcelink.json
